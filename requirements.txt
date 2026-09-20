@@ -1,0 +1,26 @@
+# ==============================================================================
+# H2-Grid India: Dependency Specification
+# ==============================================================================
+
+# Phase 1 & 2: Data Ingestion & Solar Feature Engineering
+requests>=2.31.0
+pandas>=2.1.0
+numpy>=1.24.0
+scipy>=1.11.0
+pvlib>=0.10.0
+pyarrow>=14.0.0
+
+# Phase 3: Time-Series Forecasting Engine (Statistical & ML)
+statsmodels>=0.14.0
+scikit-learn>=1.3.0
+lightgbm>=4.1.0
+
+# Phase 5 & 6: Backend API & Persistence
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+sqlalchemy>=2.0.0
+
+# Testing & Quality
+pytest>=7.4.0
