@@ -55,3 +55,7 @@ desktop.ini
 # SQLite databases
 *.db
 *.sqlite3
+
+# PDF documents & dossiers (keep local only)
+*.pdf
+docs/*.pdf
