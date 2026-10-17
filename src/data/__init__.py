@@ -1,4 +1,4 @@
-# Data ingestion & validation package for H2-Grid India
+# Data ingestion, validation & caching package for H2-Grid India
 # Core package initialization for satellite data acquisition and validation pipelines
 # Primary testbeds: South Indian Renewable Corridors and Pan-India validation hubs
 
