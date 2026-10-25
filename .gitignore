@@ -33,6 +33,7 @@ data/raw/*.csv
 data/raw/*.json
 data/processed/*.csv
 data/processed/*.parquet
+data/processed/*.joblib
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 

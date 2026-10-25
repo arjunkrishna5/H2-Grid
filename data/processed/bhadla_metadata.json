@@ -1,0 +1,42 @@
+{
+  "hub_id": "bhadla",
+  "hub_name": "Bhadla, Rajasthan",
+  "total_rows": 43824,
+  "total_columns": 29,
+  "target_column": "ghi",
+  "scaled_columns": [
+    "ghi",
+    "dni",
+    "temperature",
+    "humidity",
+    "wind_speed",
+    "pressure",
+    "solar_zenith",
+    "solar_elevation",
+    "solar_azimuth",
+    "solar_declination",
+    "hour_angle",
+    "cos_zenith",
+    "ghi_lag_1",
+    "ghi_lag_2",
+    "ghi_lag_24",
+    "ghi_lag_168",
+    "ghi_rolling_mean_6h",
+    "ghi_rolling_std_24h"
+  ],
+  "passthrough_columns": [
+    "hour_sin",
+    "hour_cos",
+    "day_sin",
+    "day_cos",
+    "is_monsoon",
+    "season_code",
+    "season_winter",
+    "season_summer",
+    "season_monsoon",
+    "season_post_monsoon",
+    "is_monsoon_transition"
+  ],
+  "night_clipped_count": 8491,
+  "date_range": "2019-01-01 to 2023-12-31"
+}
