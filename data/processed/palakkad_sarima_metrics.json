@@ -1,0 +1,16 @@
+{
+  "hub_id": "palakkad",
+  "order": "(1, 0, 0)",
+  "seasonal_order": "(1, 1, 0, 24)",
+  "r2_overall": 0.9883,
+  "rmse_overall": 29.99,
+  "mae_overall": 11.04,
+  "r2_daytime": 0.9606,
+  "rmse_daytime": 53.64,
+  "mae_daytime": 35.31,
+  "aic": 88477.8,
+  "fit_time_sec": 5.2,
+  "eval_time_sec": 1.69,
+  "test_hours": 8760,
+  "daytime_hours": 2738
+}

@@ -1,0 +1,16 @@
+{
+  "hub_id": "bhadla",
+  "order": "(1, 0, 0)",
+  "seasonal_order": "(1, 1, 0, 24)",
+  "r2_overall": 0.9886,
+  "rmse_overall": 30.97,
+  "mae_overall": 9.5,
+  "r2_daytime": 0.9629,
+  "rmse_daytime": 55.58,
+  "mae_daytime": 30.59,
+  "aic": 86168.0,
+  "fit_time_sec": 4.99,
+  "eval_time_sec": 1.66,
+  "test_hours": 8760,
+  "daytime_hours": 2720
+}

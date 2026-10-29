@@ -1,0 +1,16 @@
+{
+  "hub_id": "pavagada",
+  "order": "(1, 0, 0)",
+  "seasonal_order": "(1, 1, 0, 24)",
+  "r2_overall": 0.9888,
+  "rmse_overall": 30.86,
+  "mae_overall": 10.92,
+  "r2_daytime": 0.9616,
+  "rmse_daytime": 55.59,
+  "mae_daytime": 35.42,
+  "aic": 89419.5,
+  "fit_time_sec": 4.93,
+  "eval_time_sec": 1.66,
+  "test_hours": 8760,
+  "daytime_hours": 2700
+}
