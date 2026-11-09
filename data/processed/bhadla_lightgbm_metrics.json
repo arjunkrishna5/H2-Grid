@@ -1,0 +1,37 @@
+{
+  "hub_id": "bhadla",
+  "model_type": "LightGBM Regressor (GBDT, Gain-based)",
+  "r2_overall": 0.995,
+  "rmse_overall": 20.51,
+  "mae_overall": 6.48,
+  "r2_daytime": 0.9837,
+  "rmse_daytime": 36.81,
+  "mae_daytime": 20.7,
+  "best_iteration": 320,
+  "train_time_sec": 0.45,
+  "eval_time_sec": 0.02,
+  "test_hours": 8760,
+  "daytime_hours": 2720,
+  "top_5_features": [
+    [
+      "ghi_lag_24",
+      47.22
+    ],
+    [
+      "solar_elevation",
+      29.32
+    ],
+    [
+      "ghi_lag_168",
+      14.1
+    ],
+    [
+      "ghi_lag_1",
+      4.27
+    ],
+    [
+      "cos_zenith",
+      2.22
+    ]
+  ]
+}

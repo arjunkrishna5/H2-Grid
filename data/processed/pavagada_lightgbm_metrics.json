@@ -1,0 +1,37 @@
+{
+  "hub_id": "pavagada",
+  "model_type": "LightGBM Regressor (GBDT, Gain-based)",
+  "r2_overall": 0.9942,
+  "rmse_overall": 22.21,
+  "mae_overall": 8.19,
+  "r2_daytime": 0.9801,
+  "rmse_daytime": 40.0,
+  "mae_daytime": 26.46,
+  "best_iteration": 584,
+  "train_time_sec": 0.66,
+  "eval_time_sec": 0.02,
+  "test_hours": 8760,
+  "daytime_hours": 2700,
+  "top_5_features": [
+    [
+      "ghi_lag_24",
+      46.78
+    ],
+    [
+      "solar_elevation",
+      24.32
+    ],
+    [
+      "ghi_lag_168",
+      13.45
+    ],
+    [
+      "solar_zenith",
+      5.98
+    ],
+    [
+      "ghi_lag_1",
+      4.88
+    ]
+  ]
+}
